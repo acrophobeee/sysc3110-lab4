@@ -1,7 +1,3 @@
-/** SYSC 2101 - Prof-Student-TA Example
- * 
- *
- */
 
 import java.util.*;
 import java.util.Date;
